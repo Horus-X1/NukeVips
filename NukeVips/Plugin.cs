@@ -9,6 +9,8 @@ namespace NukeVips
         public static new Config Config;
         private EventHandlers handler;
 
+        public override string Author => "Horus";
+
         public static Dictionary<string, string> RangosVip;
         public static Dictionary<string, int> Usos;
 
