@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commands\Register.cs" />
+    <Compile Include="Commands\RestartUses.cs" />
     <Compile Include="Commands\Unregister.cs" />
     <Compile Include="Config.cs" />
     <Compile Include="EventHandlers.cs" />
